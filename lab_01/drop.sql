@@ -1,0 +1,1 @@
+DROP TABLE sch.Customers, sch.Designers, sch.TechTasks, sch.Projects, sch.Distribution;
